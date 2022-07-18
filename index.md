@@ -1,86 +1,122 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lars Erik Würflinger
+
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lars Erik Würflinger
+Data scientist and phyiscs PhD with industry experience
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+<a href="mailto:lars.erik.wuerflinger@gmail.com">lars.erik.wuerflinger@gmail.com</a>
+| <a href="https://www.linkedin.com/in/wuerflinger/">linked.in</a>
+| <a href="tel:+491627974304"> +49 162 7974304 </a> </div> 
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+__Senior Data Scientist__, *EOS Group*
+`01/2021 - present`
+- Employing data science and machine learning to implement optimal debt collection strategies
+- Developing and maintaining custom python packages for the Data Science team
+- Implementation of new features for our existing data products (backend)
+- Management of the team's servers and maintenance of our applications
+- Mentoring new team members and conducting code reviews
 
-### Specialized in
+__Data Scientist__, *EOS Group*
+`03/2018 - 12/2020`
+- Gathering of new data, explorative data analysis
+- Development of prediction models for different debt collection activities
+- Combined machine learning and optimisation techniques to build a decision engine for the best next action
+- Development and maintenance of custom python packages
+- Evaluation of model quality, built monitoring tools to track their performance
+- Managed our teams’ servers and brought models into production
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+__SAP consultant and ABAP developer__, *best practice consulting AG*
+`07/2014 - 06/2017`
+- Conceptual design and implementation of SAP software solutions in various projects
+- in particular for a Danish IT specialist in the area of SAP PSCD
+- Analysis and modelling of complex data structures
+- Coordination and clarifications with the clients, presentation of solutions
+- Maintenance of productive solution, handling of defects, and providing functional specifications
 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__PhD researcher__, *The Institute of Photonic Sciences*
+`02/2009 - 10/2013`
+- Doctoral studies in the Quantum Information Theory group
+- Developed and analysed novel statistical models for the characterization non-local correlations
+- within a research project funded by the European Research Council
+- Published several research articles, including two in the top-rated Physical Review Letters
+- Presented results at the prestigious Quantum Information Processing 2012 in Montreal
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+__Polytechnic University of Catalonia, Barcelona__
+`2009 - 2013`
+- PhD Physics, cum laude
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+__University of Freiburg, Freiburg__
+`2002 - 2008`
+- M.S. Physics, very good
 
 
+## Technical Skills
 
-## Awards
+__Python__
+- Advanced, general programming, development of libraries and applications
+- Data science stack (numpy, pandas, scikit-learn)
+- Jupyter notebooks, visualisation with matplotlib and plotly
+- Learning continously to improve
 
-`2012`
-President, *Royal Society*, London, UK
+__Machine Learning__
+- Theoretical understanding of machine learning algorithms
+- Experience in their application (regression, classification, clustering, neural networks)
 
-Associate, *French Academy of Science*, Paris, France
+__SQL and Databases__
+- Advanced skills in SQL and relational databases
+- Extensive use as ABAP developer and data scientist
 
+__Math and Statistics__
+- Strong general math background, including linear algebra, calculus, topology, differential geometry
+- Probability theory and statistics, (convex) optimisation
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__Other__
+- Familiar with Linux operating systems
+- Version control with git, CI/CD with Gitlab
+- Docker, Bash, Ansible
+- First experiences with AWS
 
 
-## Occupation
+## Certifications
 
-`1600`
-__Royal Mint__, London
+__Machine Learning__
+- Stanford University on Coursera. Certificate earned July 5, 2017
 
-- Warden
-- Minted coins
+__Neural Networks and Deep Learning__
+- deeplearning.ai on Coursera. Certificate earned October 28, 2017
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization__
+- deeplearning.ai on Coursera. Certificate earned November 21, 2017
+
+
+## Further Skills
+
+### Languages
+- German, native
+- English, full professional proficiency
+- Spanish, professional working proficiency
+- French, elementary proficiency
+
+### Communication
+- Improved my skills in courses on effective written
+documents and effective oral presentations
+- Experienced in explaining concepts and results to technical
+and non-technical audiences
+
+## Personal
+- I am a keen student of taiji chuan, am passionate about language and literature,
+- and enjoy solving cryptic crosswords
 
 
 
