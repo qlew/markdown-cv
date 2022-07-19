@@ -16,7 +16,7 @@ Data scientist and phyiscs PhD with industry experience
 
 __Senior Data Scientist__, *EOS Group*
 `01/2021 - present`
-- Employing data science and machine learning to implement optimal debt collection strategies
+- Employing data science and ML to implement optimal debt collection strategies
 - Developing and maintaining custom python packages for the Data Science team
 - Implementation of new features for our existing data products (backend)
 - Management of the team's servers and maintenance of our applications
@@ -44,7 +44,7 @@ __SAP consultant and developer__, *best practice consulting AG*
 __PhD researcher__, *The Institute of Photonic Sciences*
 `02/2009 - 10/2013`
 - Doctoral studies in the Quantum Information Theory group
-- Developed and analysed novel statistical models for the characterization non-local correlations
+- Developed and analysed novel models for the characterization non-local correlations
 - within a research project funded by the European Research Council
 - Published several research articles, including two in the top-rated Physical Review Letters
 - Presented results at the prestigious Quantum Information Processing 2012 in Montreal
