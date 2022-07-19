@@ -26,19 +26,19 @@ __Data Scientist__, *EOS Group*
 `03/2018 - 12/2020`
 - Gathering of new data, explorative data analysis
 - Development of prediction models for different debt collection activities
-- Combined machine learning and optimisation techniques to build a decision engine for the best next action
+- Combined machine learning and optimisation techniques to build a decision engine
 - Development and maintenance of custom python packages
 - Evaluation of model quality, built monitoring tools to track their performance
 - Managed our teams’ servers and brought models into production
 
 
-__SAP consultant and ABAP developer__, *best practice consulting AG*
+__SAP consultant and developer__, *best practice consulting AG*
 `07/2014 - 06/2017`
-- Conceptual design and implementation of SAP software solutions in various projects
-- in particular for a Danish IT specialist in the area of SAP PSCD
+- Conceptual design and implementation of SAP software solutions 
+- National and international projects
 - Analysis and modelling of complex data structures
 - Coordination and clarifications with the clients, presentation of solutions
-- Maintenance of productive solution, handling of defects, and providing functional specifications
+- Maintenance, handling of defects, and providing functional specifications
 
 
 __PhD researcher__, *The Institute of Photonic Sciences*
@@ -48,17 +48,6 @@ __PhD researcher__, *The Institute of Photonic Sciences*
 - within a research project funded by the European Research Council
 - Published several research articles, including two in the top-rated Physical Review Letters
 - Presented results at the prestigious Quantum Information Processing 2012 in Montreal
-
-
-## Education
-
-__Polytechnic University of Catalonia, Barcelona__
-`2009 - 2013`
-- PhD Physics, cum laude
-
-__University of Freiburg, Freiburg__
-`2002 - 2008`
-- M.S. Physics, very good
 
 
 ## Technical Skills
@@ -78,14 +67,25 @@ __SQL and Databases__
 - Extensive use as ABAP developer and data scientist
 
 __Math and Statistics__
-- Strong general math background, including linear algebra, calculus, topology, differential geometry
-- Probability theory and statistics, (convex) optimisation
+- Strong math background, including linear algebra, calculus, topology,
+- differential geometry, probability theory and statistics, (convex) optimisation
 
 __Other__
 - Familiar with Linux operating systems
 - Version control with git, CI/CD with Gitlab
 - Docker, Bash, Ansible
 - First experiences with AWS
+
+## Education
+
+__Polytechnic University of Catalonia, Barcelona__
+`2009 - 2013`
+- PhD Physics, cum laude
+
+__University of Freiburg, Freiburg__
+`2002 - 2008`
+- M.S. Physics, very good
+
 
 
 ## Certifications
